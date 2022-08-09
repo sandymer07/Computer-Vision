@@ -1,4 +1,0 @@
-cv2
-streamlit
-numpy
-PIL
