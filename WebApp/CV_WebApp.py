@@ -52,6 +52,7 @@ def segmentation(image):
 
 
 def main_loop():
+    st.set_page_config(page_title="Welcome", page_icon=":wave:")
     st.title("Computer Vision Web App")
     st.subheader("Image filters, Edge Detection, Cartoonify, Segmentation")
     
